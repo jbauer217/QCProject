@@ -7,7 +7,6 @@ This repo is initially public, I will soon make it private so if you do not alre
 A short biography of each team member will be written into the team directory. Please complete this as soon as possible. 
 
 ## Roles 
-### Task Management 
 Initially I (Conner) will handle task management. There will be a "department lead" for science, coding and writing. The "heads" are highlighted in bold below. 
 This can be changed however you like but a head should be nominated. The head of department will be responsible for communicating the progress and problems being experienced by that team in any meeting. 
 A wider discussion with all team members can be developed after the main points are communicated by the heads. 
