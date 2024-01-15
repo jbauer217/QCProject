@@ -31,6 +31,7 @@ WhatsApp and the (already established) group chat will be used for ad-hoc or imm
 For this we will use comments/mentions in Overleaf, comments/mentions/allocations in ToDoist and comments/mentions/pull-requests in GitHub. This will take a while to get used to but allows everyone the autonomy to complete their own work on their own schedule. Due dates on tasks allocated to you will therefore become your "workstack" and is what you should monitor.   
 
 # Task Management 
+[Link to Project](https://app.todoist.com/app/project/2326866532)
 Task management will be done predominantly through ToDoist - a web app for managing tasks. It has an Android and IOS app too. Please create an account and put your details into the WhatsApp chat so I can add you to the project. Anyone can create a task, when you do please assign a deadline, a section and a person to the task. If discussion is required please use the comments on the task and only mark as complete when the actual task is complete. Subtasks are also useful if the initial task becomes excessively complicated.  You can filter the tasks in ToDoist for "Upcoming" and assigned to you which will make completing the work assigned to you very simple.If you feel you could be doing more or have ideas which are not already listed, please comment on an existing task or create a new one. 
 (TODO - Link to Project here). 
 
@@ -58,4 +59,4 @@ The slides for the presentation will also be typeset in LaTeX using the Beamer f
 (Harry include a link here)
 
 # Contribution 
-Please feel free to edit this file (the GitHub web GUI is probably the easiest way if you are unfamiliar) for any reason. All changed will be checked by my for inclusion in the live document. 
+Please feel free to edit this file (the GitHub web GUI is probably the easiest way if you are unfamiliar) for any reason. All changes will be checked by my for inclusion in the live document. 
