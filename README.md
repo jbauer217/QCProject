@@ -4,7 +4,7 @@ This is the repository for our group for the Quantum Computing Project. This is 
 This repo is initially public, I will soon make it private so if you do not already have a GitHub account please create one so I can add you. To anyone who wishes to connect their machine to the repo (coders primarily) we will need to generate SSH keys, which we can do one-to-one as required. 
 
 # Team 
-A short biography of each team member will be written into the team directory. Please complete this as soon as possible. I will link them here. 
+A short biography of each team member will be written into the team directory. Please complete this as soon as possible. 
 
 ## Roles 
 ### Task Management 
@@ -46,9 +46,6 @@ Please make commit messages informative. We can discuss methods like atomic comm
 
 # Coding Standard
 We will write in Python and adopt the PEP 8 coding standard. It would be a good idea to install a linter onto the machine you plan to use for coding and have it monitor the standard for you **from the outset.**
-
-# Testing 
-We will implement a test suite which must be passing at 100% in order to merge a pull request. 
 
 # Written Report 
 This should be approximately 30 pages. It will be typset in LaTeX and hosted on Overleaf. Harry will ensure that all team members have access to the project. 
