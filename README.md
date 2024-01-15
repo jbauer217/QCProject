@@ -46,6 +46,9 @@ Please make commit messages informative. We can discuss methods like atomic comm
 # Coding Standard
 We will write in Python and adopt the PEP 8 coding standard. It would be a good idea to install a linter onto the machine you plan to use for coding and have it monitor the standard for you **from the outset.**
 
+# Documentation 
+The code will be documented using Python docstrings. The exact implementation and style will be determined. 
+
 # Written Report 
 This should be approximately 30 pages. It will be typset in LaTeX and hosted on Overleaf. Harry will ensure that all team members have access to the project. 
 (Harry include a link here)
