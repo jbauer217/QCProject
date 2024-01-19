@@ -24,7 +24,7 @@ Initially, the programming aspect will be handled predominantly by:
 ### Writing 
 This is the writing of the written report as well as the creation of the Beamer slides for the presentation. 
 * **Name**
-* Name
+* Julia
 
 # Communication 
 WhatsApp and the (already established) group chat will be used for ad-hoc or immediate need for communication. Everything else should be done async - that is - you should not expect an immedaite response. 
